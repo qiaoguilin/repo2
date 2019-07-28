@@ -6,6 +6,8 @@ public class FIrstClass {
         System.out.println("hello itheima");
         System.out.println("hello itheima");
         System.out.println("hello itheima");
+        //hello
+        System.out.println("hello 傻逼杨耀华");
     }
 
     public  void test(){
