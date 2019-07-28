@@ -7,9 +7,13 @@ public class FIrstClass {
         System.out.println("hello itheima");
         System.out.println("hello itheima");
         //hello
+        System.out.println("黑马");
+        System.out.println("黑11马");
         //System.out.println("hello 傻逼杨耀华");
         System.out.println("hello 傻逼杨耀华1");
         System.out.println("hello 傻逼杨耀华2");
+
+
     }
 
     public  void test(){
