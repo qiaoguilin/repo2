@@ -7,4 +7,9 @@ public class FIrstClass {
         System.out.println("hello itheima");
         System.out.println("hello itheima");
     }
+
+    public  void test(){
+        int a =1;
+        a+=10;
+    }
 }
