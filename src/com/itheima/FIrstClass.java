@@ -8,6 +8,7 @@ public class FIrstClass {
         System.out.println("hello itheima");
         //hello
         System.out.println("黑马");
+        System.out.println("黑11马");
     }
 
     public  void test(){
